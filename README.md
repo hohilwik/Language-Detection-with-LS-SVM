@@ -1,4 +1,7 @@
-# Language-Detection-with-LS-SVM
+# Language Detection of recorded audio with LS-SVM
+
+The dataset consisted of 3.5 hours of audio in 7-15 second clips in different languages from over 50 different speakers.
+
 Language detection of 7 Indian languages using LPC and Hilbert envelope for VOP and syllable detection, pitch content found using peaks in autocorrelation vector as features, bayesian inference and LS-SVM for classification.
 
 The languages are:
